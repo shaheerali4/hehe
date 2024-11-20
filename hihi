@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Wish</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            margin-top: 20%;
+        }
+        h1 {
+            font-size: 3em;
+            color: #ff6347;
+        }
+        p {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Happy Birthday! 🎂</h1>
+    <p>Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!</p>
+</body>
+</html>
